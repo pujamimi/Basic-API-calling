@@ -1,0 +1,24 @@
+.postcard{
+    width: 250px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 3px 3px rgb(187, 169, 169);  
+    background-color: bisque;
+    padding: 5px;
+}
+.id{
+    font-size: smaller;
+    font-weight: bold;
+    
+}
+.title{
+    font-weight: 900;
+    
+
+}
+.body{
+    font-style: italic;
+    font-weight: 200;
+}
